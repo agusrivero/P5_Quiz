@@ -24,8 +24,8 @@
     "mocha": "^5.2.0",
     "net": "^1.0.2",
     "promise-socket": "^3.1.1",
-    "sequelize": "^4.32.7",
-    "sqlite3": "^4.0.4",
+    "sequelize": "^4.43.0",
+    "sqlite3": "^4.0.6",
     "underscore": "^1.8.3"
   }
 }

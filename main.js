@@ -47,6 +47,7 @@ net.createServer(socket => {
         let cmd = args[0].toLowerCase().trim();
 
         switch (cmd) {
+            
             case '':
                 rl.prompt();
                 break;
